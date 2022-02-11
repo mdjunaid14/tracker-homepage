@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mdjunaid14.github.io/tracker-homepage/static/css/main.52d59849.chunk.css",
+    "main.js": "/mdjunaid14.github.io/tracker-homepage/static/js/main.27e08b44.chunk.js",
+    "main.js.map": "/mdjunaid14.github.io/tracker-homepage/static/js/main.27e08b44.chunk.js.map",
+    "runtime-main.js": "/mdjunaid14.github.io/tracker-homepage/static/js/runtime-main.ce0324fd.js",
+    "runtime-main.js.map": "/mdjunaid14.github.io/tracker-homepage/static/js/runtime-main.ce0324fd.js.map",
+    "static/js/2.6881d038.chunk.js": "/mdjunaid14.github.io/tracker-homepage/static/js/2.6881d038.chunk.js",
+    "static/js/2.6881d038.chunk.js.map": "/mdjunaid14.github.io/tracker-homepage/static/js/2.6881d038.chunk.js.map",
+    "static/js/3.e5e9402d.chunk.js": "/mdjunaid14.github.io/tracker-homepage/static/js/3.e5e9402d.chunk.js",
+    "static/js/3.e5e9402d.chunk.js.map": "/mdjunaid14.github.io/tracker-homepage/static/js/3.e5e9402d.chunk.js.map",
+    "index.html": "/mdjunaid14.github.io/tracker-homepage/index.html",
+    "static/css/main.52d59849.chunk.css.map": "/mdjunaid14.github.io/tracker-homepage/static/css/main.52d59849.chunk.css.map",
+    "static/js/2.6881d038.chunk.js.LICENSE.txt": "/mdjunaid14.github.io/tracker-homepage/static/js/2.6881d038.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce0324fd.js",
+    "static/js/2.6881d038.chunk.js",
+    "static/css/main.52d59849.chunk.css",
+    "static/js/main.27e08b44.chunk.js"
+  ]
+}
